@@ -16,7 +16,7 @@ Table of Content
 
 Demo 
 ------
-Link: https://flightfarewebapp.herokuapp.com/
+Link: https://flightpredictor.onrender.com/
 
 ![FLIGHT PRICE PREDICTION-3](https://user-images.githubusercontent.com/41515202/95026175-0fda3680-06ad-11eb-86dc-457fa5ae1ab6.PNG)
 
@@ -196,7 +196,7 @@ Process - Timeline
     Random Forest: 90.04%, Xgboost : 87.48%, Gradientboost : 87.59%, ACCURACY SCORE : 93:14%
 
 
-Deployment on Heroku
+Deployment on Render
 -----------------------
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
 
