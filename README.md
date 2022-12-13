@@ -199,10 +199,7 @@ Process - Timeline
 Deployment on Render
 -----------------------
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
-
-![heroku](https://user-images.githubusercontent.com/41515202/94375849-2e33b580-0134-11eb-96cb-40a79f8e75b4.png)
-
-Our next step would be to follow the instruction given on Heroku Documentation to deploy a web app.
+Our next step would be to follow the instruction given on Render Documentation to deploy a web app.
 
 Result/Summary
 ---------------
